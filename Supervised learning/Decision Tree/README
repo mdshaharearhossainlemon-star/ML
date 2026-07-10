@@ -1,1 +1,14 @@
+# Salary Prediction using Decision Tree from Scratch
 
+It is designed to predict salaries or income brackets based on a given dataset of features.
+
+##  Features
+
+* **Salary Prediction:** Specifically tailored to handle data processing and modeling for income prediction tasks.
+* **Optimized with NumPy:** Leverages fundamental libraries like NumPy for efficient vectorization and faster matrix operations.
+
+
+##  Project Structure
+
+├── decision_tree.py      # Core model implementation (Tree setup, fit, and predict functions)
+└── README.md             # Project documentation (This file)
